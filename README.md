@@ -1,2 +1,5 @@
 # hello-world
-Just another repos
+
+Hi Humans!
+
+Hubot here, I like node.js
